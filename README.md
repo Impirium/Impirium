@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning cybersecurity
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me - email me: Impirium@icloud.com
-- 😄 Pronouns: They/Them
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I just recently stepped into the world of coding. While I am not 100% on coding, I continue to learn on a daily basis.
 
 <!---

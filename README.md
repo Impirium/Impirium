@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Impirium
+- 👋 Hi, I’m Nik!
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning cybersecurity
+- 🌱 I’m currently learning the world of cybersecurity
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me - email me: Impirium@icloud.com
 - 😄 Pronouns: He/Him
